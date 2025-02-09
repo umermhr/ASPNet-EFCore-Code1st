@@ -1,0 +1,61 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+
+# Build artifacts
+bin/
+obj/
+out/
+
+# ASP.NET Core secrets
+secrets.json
+*.secrets.json
+
+# Rider & JetBrains files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.swp
+*.sln.docstates
+*.ncrunch*
+*.nvuser
+
+# Logs, Database, and Cache
+logs/
+*.log
+App_Data/
+*.pdb
+
+# Publish and Deployment
+publish/
+dist/
+tmp/
+
+# Package directories
+node_modules/
+wwwroot/lib/
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+
+# VS Code settings
+.vscode/
+.history/
+*.code-workspace
+
+# Docker files
+docker-compose.override.yml
+.dockerignore
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+

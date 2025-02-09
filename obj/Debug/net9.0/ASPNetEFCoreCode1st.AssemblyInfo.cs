@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNetEFCoreCode1st")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aeac5be223f1c94300d80192d36205df62bb208")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNetEFCoreCode1st")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNetEFCoreCode1st")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
