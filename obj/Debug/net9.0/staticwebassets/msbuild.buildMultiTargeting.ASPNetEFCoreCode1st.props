@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPNetEFCoreCode1st.props" />
+</Project>

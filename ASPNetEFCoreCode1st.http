@@ -1,0 +1,6 @@
+@ASPNetEFCoreCode1st_HostAddress = http://localhost:5004
+
+GET {{ASPNetEFCoreCode1st_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
