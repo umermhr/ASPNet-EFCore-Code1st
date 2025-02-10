@@ -51,8 +51,8 @@ Before running this project, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aspnetcore-webapi-efcore.git
-cd aspnetcore-webapi-efcore
+git clone https://github.com/umermhr/ASPNet-EFCore-Code1st.git
+cd ASPNet-EFCore-Code1st
 ```
 
 ### Set Up the Database
